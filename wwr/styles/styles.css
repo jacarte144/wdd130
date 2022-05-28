@@ -38,6 +38,7 @@ nav a:hover {
 }
 #hero-msg a {
     background-color: #007ea7;
+    font-family: Roboto Condensed, Helvetica, sans-serif;
 }
 #hero-msg a:hover {
     background-color: black;
