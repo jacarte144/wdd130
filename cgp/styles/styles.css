@@ -6,7 +6,6 @@
 header {
     background-color: #353535;
     display: grid;
-    grid-template-columns: 
 }
 #background {
     height: 400px;
@@ -119,26 +118,3 @@ footer a:hover {
     color: black;
     text-decoration: underline;
 }
-:root {
-    /* change the values below to your colors from your palette */
-    --primary-color: #353535   ;
-    --secondary-color: #FFFFFF ;
-    --accent1-color: #3C6E71;
-    --accent2-color: #284B63;
-    --accent3-color: #D9D9D9;
-  
-    /* change the values below to your chosen font(s) */
-    --heading-font: "Playfair Display";
-    --paragraph-font: Roboto Condensed, Helvetica, sans-serif;
-  
-    /* these colors below should be chosen from among your palette colors above */
-    --headline-color-on-white: black;  /* headlines on a white background */ 
-    --headline-color-on-color: white; /* headlines on a colored background */ 
-    --paragraph-color-on-white: black; /* paragraph text on a white background */ 
-    --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-    --paragraph-background-color: #284B63  ;
-    --nav-link-color: white;
-    --nav-background-color: #284B63;
-    --nav-hover-link-color: white;
-    --nav-hover-background-color: #284B63;
-  }
